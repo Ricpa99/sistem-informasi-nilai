@@ -65,3 +65,15 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini di lin
     ```sh
     php artisan serve
     ```
+## screenshot
+1. Gambar halaman jika masuk sebagai mahasiswa
+![image alt] (https://github.com/Ricpa99/sistem-informasi-nilai/blob/7c4e0b187980e6ae3b03449f909e7da4c4e30145/img/Nilai%20mahasiswa.png)
+
+2. Gambar halaman jika masuk sebagai admin
+![image alt](https://github.com/Ricpa99/sistem-informasi-nilai/blob/7c4e0b187980e6ae3b03449f909e7da4c4e30145/img/home.png)
+
+3. Gambar menampikan data mahasiswa
+![image alt](https://github.com/Ricpa99/sistem-informasi-nilai/blob/7c4e0b187980e6ae3b03449f909e7da4c4e30145/img/daftar%20mahasiswa.png)
+
+4. Gambar untuk nilai mahasiswa
+![image alt](https://github.com/Ricpa99/sistem-informasi-nilai/blob/7c4e0b187980e6ae3b03449f909e7da4c4e30145/img/Edit%20nilai.png)
